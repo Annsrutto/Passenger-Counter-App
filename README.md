@@ -31,10 +31,9 @@ The Passenger Counter App is a simple web application designed to count the numb
    ```sh
    git clone https://github.com/your-username/Passenger-Counter-App.git
 
-```sh
+   ```sh
     cd passenger-counter-app
 
-```sh
     open index.html
 
 ## Usage
