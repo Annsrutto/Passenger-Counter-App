@@ -22,7 +22,7 @@ The Passenger Counter App is a simple web application designed to count the numb
 
 ## Demo
 
-![Passenger Counter App](screenshot.png)
+![Passenger Counter App](Passenger-Counter-App.png)
 
 ## Installation
 
