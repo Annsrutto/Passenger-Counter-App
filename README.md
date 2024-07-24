@@ -51,4 +51,4 @@ The Passenger Counter App is a simple web application designed to count the numb
 - JavaScript: Programming language for implementing the app's functionality.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License- see [LICENSE] for details:
