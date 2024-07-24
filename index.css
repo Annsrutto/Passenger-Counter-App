@@ -1,0 +1,84 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('counter-app.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.counter {
+    background: rgba(255, 255, 255, 0.9);
+    max-width: 80%;
+    border: 3px solid #333;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 30px 50px;
+    max-width: 80%;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+h2 {
+    font-size: 3rem;
+    margin: 20px 0;
+    color: #333;
+}
+
+#count-el {
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+#save-el {
+    margin-top: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#increment-btn {
+    background: #066c1e;
+}
+
+#increment-btn:hover {
+    background: #568821;
+}
+
+#save-btn {
+    background: #ac0818;
+}
+
+#save-btn:hover {
+    background: #e3061c;
+}
