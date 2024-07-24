@@ -40,15 +40,15 @@ The Passenger Counter App is a simple web application designed to count the numb
     open index.html
 
 ## Usage
-Open the application in your web browser.
-Click the "INCREMENT" button to increase the count.
-Click the "SAVE" button to save the current count and reset it to zero.
-The previous counts will be displayed below the buttons.
+- Open the application in your web browser.
+- Click the "INCREMENT" button to increase the count.
+- Click the "SAVE" button to save the current count and reset it to zero.
+- The previous counts will be displayed below the buttons.
 
 ## Technologies Used
-HTML5: Markup language for creating the structure of the web page.
-CSS3: Stylesheet language for designing the user interface.
-JavaScript: Programming language for implementing the app's functionality.
+- HTML5: Markup language for creating the structure of the web page.
+- CSS3: Stylesheet language for designing the user interface.
+- JavaScript: Programming language for implementing the app's functionality.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
